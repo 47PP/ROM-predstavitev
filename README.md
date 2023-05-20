@@ -7,3 +7,4 @@ Pri projektu uporabljamo racunalniski program Mathematica.
 2. Pokazal bom število metov za tri točke v preteklosti in v sodobni igri.
 3. Analiziram razliko v igri.
 4. Pripravil bom videopodnetek kratke predstavitve projekta.
+# Aplikacija:
