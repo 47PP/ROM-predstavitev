@@ -1,5 +1,5 @@
 # Analiza vrženih metov za tri točke v ligi NBA
-V tem repozitoriju je projekt, v katerem je predstavljena analiza vrženih metov za tri točke v ligi NBA v preteklosti in v današnji igri. Ta projekt je pripravljen pri predmetu Racunalniska orodja v matematiki 2022/23 mojega studija v 1. letniku na Fakulteti za matematiko in fiziko, Univerza v Ljubljani.
+V tem repozitoriju je projekt, v katerem je predstavljena analiza vrženih metov za tri točke v ligi NBA v preteklosti in v današnji igri. Ta projekt je pripravljen pri predmetu Računalniška orodja v matematiki 2022/23 mojega študija v 1. letniku na Fakulteti za matematiko in fiziko, Univerza v Ljubljani.
 
 Pri projektu uporabljamo racunalniski program Mathematica.
 ### Načrt projekta:
