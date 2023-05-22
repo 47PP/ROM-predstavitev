@@ -6,7 +6,7 @@ Pri projektu uporabljamo racunalniski program Mathematica.
 1. Pridobivanje podatkov z uporabo Wolfram data repository.
 2. Prikazal bom število homerun-ov skozi leta.
 3. Grafični prikaz homerun-ov cez leta.
-4. Primerjava pričakovanja zmage in verjetnost le te po uspešnem homerun-u.
+4. Primerjava števila homerun-ov proti rezličnim ekipam.
 5. Pripravil bom videopodnetek kratke predstavitve projekta.
 ### Aplikacija:
 
