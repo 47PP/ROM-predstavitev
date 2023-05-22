@@ -3,8 +3,11 @@ V tem repozitoriju je projekt, v katerem je predstavljena analiza vrženih metov
 
 Pri projektu uporabljamo racunalniski program Mathematica.
 ### Načrt projekta:
-1. Pridobivanje podatkov. Uporabil bom Wolfram data repository.
+1. Pridobivanje podatkov z uporabo Wolfram data repository.
 2. Pokazal bom število metov za tri točke v preteklosti in v sodobni igri.
-3. Analiziram razliko v igri.
-4. Pripravil bom videopodnetek kratke predstavitve projekta.
+3. Grafično bom prikazal analizo metov.
+4. Analiziram razliko v igri.
+5. Pripravil bom videopodnetek kratke predstavitve projekta.
 ### Aplikacija:
+
+### Povezava do videoposnetka:
