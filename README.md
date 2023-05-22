@@ -5,7 +5,7 @@ Pri projektu uporabljamo racunalniski program Mathematica.
 ### Načrt projekta:
 1. Pridobivanje podatkov z uporabo Wolfram data repository.
 2. Pokazal bom število metov za tri točke v preteklosti in v sodobni igri.
-3. Grafično bom prikazal analizo metov.
+3. Grafični prikaz metov cez leta.
 4. Analiziram razliko v igri.
 5. Pripravil bom videopodnetek kratke predstavitve projekta.
 ### Aplikacija:
