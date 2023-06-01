@@ -7,3 +7,5 @@ Pri projektu uporabljamo racunalniski program Mathematica.
 2. Prikazal bom število homerun-ov skozi leta.
 3. Grafični prikaz homerun-ov cez leta.
 4. Primerjava števila homerun-ov proti rezličnim ekipam.
+### Posnetek predstavitve:
+https://youtu.be/OD2ZUE5_aWI
