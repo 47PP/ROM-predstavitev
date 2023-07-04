@@ -10,3 +10,5 @@ Pri projektu uporabljamo racunalniski program Mathematica.
 5. Pripravil bom kratek videoposnetek predstavitve.
 ### Posnetek predstavitve:
 https://youtu.be/OD2ZUE5_aWI
+### Notebook predstavitve:
+https://www.wolframcloud.com/obj/zp78254/ROM%20predstavitev.nb
